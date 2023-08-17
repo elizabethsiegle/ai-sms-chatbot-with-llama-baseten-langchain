@@ -1,0 +1,5 @@
+baseten==0.8.0
+Flask==2.3.2
+langchain==0.0.265
+langsmith==0.0.22
+twilio==8.5.0
